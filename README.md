@@ -1,1 +1,1 @@
-# JavaPractose
+# JavaPractice
